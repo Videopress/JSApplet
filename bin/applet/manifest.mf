@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Codebase: *.momed.it
+Permissions: sandbox
+Application-Name: JS Applet
+Entry-Point: JSApplet
